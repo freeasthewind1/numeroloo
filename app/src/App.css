@@ -1,0 +1,256 @@
+/* Sacred Numbers App Styles */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;800&family=Inter:wght@300;400;500;600&display=swap');
+
+:root {
+  --primary-gold: #D4AF37;
+  --deep-purple: #1a0b2e;
+  --mystic-orange: #FF6B35;
+  --cosmic-blue: #0f172a;
+  --spiritual-gradient: linear-gradient(135deg, #1a0b2e 0%, #2d1b4e 50%, #0f172a 100%);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background: var(--spiritual-gradient);
+  color: #fff;
+  overflow-x: hidden;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.mystic-font {
+  font-family: 'Cinzel', serif;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(212, 175, 55, 0.5);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(212, 175, 55, 0.7);
+}
+
+/* Glassmorphism Cards */
+.glass-card {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+
+.glass-card-strong {
+  background: rgba(20, 10, 40, 0.8);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(212, 175, 55, 0.3);
+  box-shadow: 0 0 40px rgba(212, 175, 55, 0.1);
+}
+
+/* Glowing Effects */
+.glow-text {
+  text-shadow: 0 0 20px rgba(212, 175, 55, 0.5);
+}
+
+.glow-box {
+  box-shadow: 0 0 30px rgba(212, 175, 55, 0.2);
+}
+
+/* Number Display Animation */
+.number-reveal {
+  animation: numberPulse 2s ease-in-out infinite;
+}
+
+@keyframes numberPulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+}
+
+/* Input Styling */
+.mystic-input {
+  background: rgba(0, 0, 0, 0.3);
+  border: 2px solid rgba(212, 175, 55, 0.3);
+  color: #D4AF37;
+  transition: all 0.3s;
+}
+
+.mystic-input:focus {
+  outline: none;
+  border-color: #D4AF37;
+  box-shadow: 0 0 20px rgba(212, 175, 55, 0.3);
+}
+
+/* Button Hover Effects */
+.mystic-btn {
+  background: linear-gradient(135deg, #D4AF37 0%, #B8941F 100%);
+  transition: all 0.3s;
+  position: relative;
+  overflow: hidden;
+}
+
+.mystic-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 30px rgba(212, 175, 55, 0.4);
+}
+
+.mystic-btn:active {
+  transform: translateY(0);
+}
+
+/* Carousel Styles */
+.carousel-container {
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  display: flex;
+  gap: 1rem;
+  padding-bottom: 1rem;
+}
+
+.carousel-container::-webkit-scrollbar {
+  display: none;
+}
+
+.carousel-item {
+  scroll-snap-align: start;
+  flex-shrink: 0;
+  width: 320px;
+}
+
+/* Tab Buttons */
+.tab-btn {
+  transition: all 0.3s;
+}
+
+.tab-btn.active {
+  background: #f97316;
+  color: white;
+}
+
+/* Section Animations */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.section-content {
+  animation: fadeIn 0.5s ease-in;
+}
+
+/* Card Hover Effects */
+.card-hover {
+  transition: all 0.3s ease;
+}
+
+.card-hover:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+}
+
+/* Gradient Text */
+.gradient-text {
+  background: linear-gradient(135deg, #D4AF37 0%, #FF6B35 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Mobile Optimizations */
+@media (max-width: 640px) {
+  .mystic-font {
+    font-size: 0.9em;
+  }
+  
+  .carousel-item {
+    width: 280px;
+  }
+}
+
+/* Safe Area for Mobile */
+@supports (padding-bottom: env(safe-area-inset-bottom)) {
+  .safe-area-bottom {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+}
+
+/* Touch Action */
+.touch-pan-x {
+  touch-action: pan-x;
+}
+
+/* Prevent Text Selection */
+.no-select {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Smooth Scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Focus States */
+button:focus-visible,
+input:focus-visible {
+  outline: 2px solid rgba(212, 175, 55, 0.5);
+  outline-offset: 2px;
+}
+
+/* Loading Animation */
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+.loading-shimmer {
+  background: linear-gradient(90deg, rgba(255,255,255,0.05) 25%, rgba(255,255,255,0.1) 50%, rgba(255,255,255,0.05) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+/* Star Background Animation */
+@keyframes twinkle {
+  0%, 100% { opacity: 0.3; transform: scale(1); }
+  50% { opacity: 1; transform: scale(1.2); }
+}
+
+.star {
+  position: absolute;
+  background: white;
+  border-radius: 50%;
+  animation: twinkle var(--duration, 3s) ease-in-out infinite;
+}
+
+/* Floating Particles */
+@keyframes float {
+  0%, 100% { transform: translateY(0) translateX(0); }
+  25% { transform: translateY(-20px) translateX(10px); }
+  50% { transform: translateY(-10px) translateX(-10px); }
+  75% { transform: translateY(-30px) translateX(5px); }
+}
+
+.floating-particle {
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  background: rgba(212, 175, 55, 0.6);
+  border-radius: 50%;
+  animation: float 10s infinite ease-in-out;
+}
