@@ -12,6 +12,12 @@ interface ExploreProps {
   onBack: () => void;
 }
 
+interface ExploreItem {
+  name: string;
+  date: string;
+  note: string;
+}
+
 export const Explore: React.FC<ExploreProps> = ({ birthDate, onBack }) => {
   const [selectedLifePath, setSelectedLifePath] = useState<string>("1");
   const [activeTab, setActiveTab] = useState('celebrities');
@@ -26,11 +32,12 @@ export const Explore: React.FC<ExploreProps> = ({ birthDate, onBack }) => {
 
   const lifePathOptions = [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 22, 33];
 
-  const getData = (category: 'celebrities' | 'brands' | 'countries') => {
-    return (exploreData as any)[category]?.[selectedLifePath] || [];
+  const getData = (category: 'celebrities' | 'brands' | 'countries'): ExploreItem[] => {
+    // Correct access: exploreData[lifePath][category]
+    return (exploreData as any)[selectedLifePath]?.[category] || [];
   };
 
-  const renderGrid = (items: any[]) => {
+  const renderGrid = (items: ExploreItem[]) => {
     if (!items || items.length === 0) {
       return (
         <div className="text-center py-12 px-4 border border-dashed border-amber-500/20 rounded-xl bg-amber-950/5">
@@ -50,14 +57,15 @@ export const Explore: React.FC<ExploreProps> = ({ birthDate, onBack }) => {
             <div className="flex items-start justify-between mb-2">
               <h4 className="font-bold text-white text-lg">{item.name}</h4>
               <span className="text-xs text-amber-500/60 font-mono border border-amber-500/20 px-2 py-0.5 rounded">
-                {calculateLifePath(item.birthDate || item.founded || "2000-01-01")}
+                {/* Calculate Life Path from the item's date to verify/show */}
+                {calculateLifePath(item.date)}
               </span>
             </div>
             <p className="text-xs text-amber-400/80 mb-2 font-medium uppercase tracking-wide">
-              {item.role || "Kuruluş: " + (item.founded || item.birthDate)}
+              {item.date}
             </p>
             <p className="text-sm text-slate-300 leading-relaxed">
-              {item.desc}
+              {item.note}
             </p>
           </PremiumCard>
         ))}

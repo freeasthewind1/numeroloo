@@ -20,8 +20,8 @@ export const ChineseZodiac: React.FC<ChineseZodiacProps> = ({ birthDate, onBack 
   const year = new Date(birthDate).getFullYear();
   const sign = calculateChineseZodiac(year);
 
-  // Safe data access
-  const signData = (zodiacData.signs as any)[sign];
+  // Safe data access - directly access the sign from root object
+  const signData = (zodiacData as any)[sign];
 
   return (
     <div className="space-y-6 animate-in slide-in-from-right-8 duration-500">

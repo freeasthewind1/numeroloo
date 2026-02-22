@@ -37,6 +37,80 @@
         "9": "Tamamlanma, bitişler, arınma ve evrensel sevgi yılı."
       }
     },
+    "2": {
+      "summary": "Diplomat, Barışçıl, Sezgisel",
+      "keywords": ["Uyum", "Denge", "Sabır", "İşbirliği"],
+      "deepAnalysis": [
+        {
+          "title": "Karakter Özü ve Motivasyon",
+          "content": "Yaşam Yolu 2, denge, uyum ve barışın temsilcisidir. Motivasyonun çatışmadan uzak, huzurlu bir ortam yaratmaktır. Doğuştan diplomatsın; iki tarafı bir araya getirme ve uzlaştırma yeteneğin eşsizdir. Detayları fark eden, sezgileri güçlü ve son derece duyarlı bir ruhsun. Başarıyı tek başına değil, ortaklıklar ve işbirliği yoluyla elde etmeyi tercih edersin. Senin gücün yumuşaklığında ve sabrında saklıdır."
+        },
+        {
+          "title": "Gölge Taraf ve Tuzaklar",
+          "content": "Aşırı duyarlılık ve alınganlık en büyük zayıflığındır. Başkalarının enerjisinden çabuk etkilenirsin. Hayır demekte zorlanmak, kendi ihtiyaçlarını ihmal etmene ve pasif-agresif davranışlar geliştirmene neden olabilir. Kararsızlık, fırsatları kaçırmana yol açabilir. Çatışmadan kaçmak için gerçekleri halı altına süpürme eğilimi, uzun vadede patlamalara neden olur. Kendi değerini başkalarının onayına bağlamamalısın."
+        },
+        {
+          "title": "İlişkilerde Dinamikler",
+          "content": "Aşk ve ilişkiler senin için hayatın merkezidir. Yalnızlık sana göre değildir. Romantik, sadık ve verici bir partnersin. Partnerinin en küçük duygu değişimini bile hissedersin. Ancak bağımlı olma riskin vardır; kendi kimliğini ilişkide kaybetmemeye dikkat etmelisin. Sana güven veren, duygusal derinliği olan ve nezaketini takdir eden bir eşle mutlu olursun. Kaba ve agresif insanlar ruhunu yaralar."
+        },
+        {
+          "title": "İş, Para ve Kariyer",
+          "content": "Takım çalışması gerektiren her iş sana uygundur. Diplomasi, psikoloji, danışmanlık, sanat, müzik veya sağlık sektöründe başarılı olursun. Liderin sağ kolu veya arabulucu olarak mükemmelsin. Rekabetçi ve stresli ortamlar verimini düşürür. Para kazanmak için agresif yollar izlemezsin; biriktirmeyi ve güvenli yatırımları tercih edersin. Detay gerektiren işlerde çok titizsin."
+        },
+        {
+          "title": "Hayat Dersi ve Ruhsal Tema",
+          "content": "Ruhsal dersin, sınırlarını koruyarak sevmeyi ve işbirliği yapmayı öğrenmektir. Kendi sesini bulmalı ve çatışma olsa bile doğrularını ifade etmelisin. Sabrın, zamanla meyve verecektir. Evrendeki dualiteyi (zıtlıkların uyumunu) anlamak ve dengelemek senin misyonundur. Başkalarına ayna olurken, kendi görüntünü de netleştirmelisin."
+        }
+      ],
+      "personalYearThemes": {
+        "1": "Yeni başlangıçlar için tohum atma zamanı.",
+        "2": "Tam senin yılın: Sabır, bekleme ve ortaklıklar.",
+        "3": "Kendini ifade etme ve sosyalleşme dönemi.",
+        "4": "Çalışma ve detaylara odaklanma vakti.",
+        "5": "Beklenmedik değişimlere uyum sağla.",
+        "6": "Aile ve sorumluluklar ön planda.",
+        "7": "İç dünyana dön ve analiz et.",
+        "8": "Maddi hasat ve güçlenme yılı.",
+        "9": "Bitişler ve arınma zamanı."
+      }
+    },
+    "3": {
+      "summary": "İfadeci, Sosyal, Neşeli",
+      "keywords": ["İletişim", "Yaratıcılık", "Neşe", "İlham"],
+      "deepAnalysis": [
+        {
+          "title": "Karakter Özü ve Motivasyon",
+          "content": "Yaşam Yolu 3, kendini ifadenin ve yaşama sevincinin sembolüdür. Kelimeler, sanat veya müzik yoluyla duygularını dışa vurmak senin nefes alma biçimindir. Girdiğin ortama ışık ve neşe saçarsın. Sosyal, esprili ve çekicisin. Hayatı bir oyun alanı olarak görürsün. Motivasyonun, insanlara ilham vermek ve onları güldürmektir. Yaratıcı enerjin asla tükenmez; sürekli yeni fikirler üretirsin."
+        },
+        {
+          "title": "Gölge Taraf ve Tuzaklar",
+          "content": "Yüzeysellik ve odaklanma sorunu en büyük tuzağındır. Enerjini dağıtıp hiçbir işi bitiremeyebilirsin. Dedikodu yapmaya veya gerçeği abartarak anlatmaya meyilli olabilirsin. Duygusal derinlikten kaçıp sürekli eğlence arayabilirsin. Eleştiriye karşı aşırı hassassın; onaylanmadığında depresifleşebilirsin. Disiplinsizlik, yeteneklerini boşa harcamana neden olabilir."
+        },
+        {
+          "title": "İlişkilerde Dinamikler",
+          "content": "Flörtöz, eğlenceli ve romantik bir aşıksın. İlişkide sıkılmaya gelemezsin; partnerin senin zekana ve espri anlayışına ayak uydurabilmeli. Kıskançlık ve kısıtlanma seni kaçırır. Kelimelerle aran çok iyi olduğu için, partnerini sözlerinle büyüleyebilir veya yaralayabilirsin. Uzun vadeli ilişkilerde derinleşmeyi ve sorumluluk almayı öğrenmelisin."
+        },
+        {
+          "title": "İş, Para ve Kariyer",
+          "content": "Sahne sanatları, yazarlık, medya, reklamcılık, satış veya tasarım alanlarında parlarsın. Rutin ofis işleri ruhunu öldürür. İnsanlarla etkileşimde olduğun her işte başarılısın. Para konusunda şanslısın ancak harcamayı seversin; bütçe yapmakta zorlanabilirsin. Yaratıcılığını paraya dönüştürme potansiyelin çok yüksektir."
+        },
+        {
+          "title": "Hayat Dersi ve Ruhsal Tema",
+          "content": "Ruhsal amacın, içindeki neşeyi ve gerçeği dünyaya haykırmaktır. Duygularını bastırmadan, dürüstçe ifade etmeyi öğrenmelisin. Yüzeyselliği aşıp kalbinin derinliklerine inmelisin. Senin görevin, dünyanın ağırlığını hafifletmek ve insanlara umut aşılamaktır. 'Kelam'ın gücünü yapıcı kullanmak senin ustalığındır."
+        }
+      ],
+      "personalYearThemes": {
+        "1": "Yeni fikirler ve başlangıçlar.",
+        "2": "İşbirliği ve duygusal denge.",
+        "3": "Zirve yılı: Yaratıcılık, sahne ve ifade.",
+        "4": "Disiplin ve pratik çalışma.",
+        "5": "Macera, seyahat ve değişim.",
+        "6": "Sevgi, aile ve sorumluluk.",
+        "7": "Ruhsal gelişim ve dinlenme.",
+        "8": "Başarı ve maddi kazanç.",
+        "9": "Tamamlanma ve bırakma."
+      }
+    },
     "4": {
       "summary": "Düzenli, Pratik, Çalışkan",
       "keywords": ["Düzen", "İstikrar", "Sabır", "Güven"],
@@ -74,6 +148,191 @@
         "9": "Eski yapıları yıkıp yenisine yer açma zamanı."
       }
     },
+    "5": {
+      "summary": "Özgür, Maceracı, Değişken",
+      "keywords": ["Özgürlük", "Değişim", "Macera", "Esneklik"],
+      "deepAnalysis": [
+        {
+          "title": "Karakter Özü ve Motivasyon",
+          "content": "Yaşam Yolu 5, özgürlüğün ve değişimin ateşli savunucusudur. Meraklı, enerjik ve yerinde duramayan bir yapın var. Rutin senin hapishanen gibidir. Dünyayı gezmek, yeni kültürler tanımak ve sınırları zorlamak istersin. İletişim yeteneğin ve zekan çok keskindir. Her ortama kolayca uyum sağlarsın. Hayatı dolu dolu, beş duyunla deneyimlemek için buradasın. Risk almak senin doğanda var."
+        },
+        {
+          "title": "Gölge Taraf ve Tuzaklar",
+          "content": "Maymun iştahlılık, odaklanamama ve sorumsuzluk gölge yanlarındır. Bir projeden diğerine atlayıp hiçbirini bitirmeyebilirsin. Bağımlılıklara (yemek, alkol, adrenalin vb.) yatkınlığın olabilir. Verdiğin sözleri tutmakta zorlanabilirsin. Can sıkıntısı senin en büyük düşmanındır; bundan kaçmak için dürtüsel ve yıkıcı kararlar alabilirsin. Huzursuzluğunu yönetmeyi öğrenmelisin."
+        },
+        {
+          "title": "İlişkilerde Dinamikler",
+          "content": "İlişkide en çok korktuğun şey kısıtlanmaktır. Partnerin sana geniş bir özgürlük alanı bırakmalı ve senin maceralarına eşlik edebilmelidir. Tutkulu ve çekicisin ancak bağlanma sorunu yaşayabilirsin. Monotonluk başlarsa kaçarsın. Zihinsel olarak seni uyarabilen, esnek ve neşeli bir eşle uzun vadeli mutluluğu yakalayabilirsin. Kıskançlık sana göre değildir."
+        },
+        {
+          "title": "İş, Para ve Kariyer",
+          "content": "Satış, pazarlama, turizm, gazetecilik veya şov dünyası gibi hareketli ve insan odaklı işlerde başarılısın. Ofis masasına hapsolamazsın. Kendi işini yapmak veya freelance çalışmak sana uygundur. Para senin için özgürlüktür; geldiği gibi gidebilir. Riskli yatırımlardan hoşlanırsın. İkna kabiliyetinle her şeyi satabilirsin."
+        },
+        {
+          "title": "Hayat Dersi ve Ruhsal Tema",
+          "content": "Ruhsal dersin, özgürlüğün sorumluluk gerektirdiğini öğrenmektir. Gerçek özgürlük kaçmak değil, seçimlerinin sonuçlarını üstlenmektir. Değişimi kucaklarken köklerini tamamen koparmamalısın. Deneyimlerinden bilgelik damıtmak ve disiplinli olmayı öğrenmek seni ustalığa götürür. Esnekliğin, hayattaki fırtınalarda kırılmadan bükülmeni sağlar."
+        }
+      ],
+      "personalYearThemes": {
+        "1": "Yeni başlangıçlar ve girişimler.",
+        "2": "Sabır ve ortaklıklar.",
+        "3": "Eğlence ve yaratıcılık.",
+        "4": "Çalışma ve düzen.",
+        "5": "Zirve yılı: Büyük değişimler, seyahat ve özgürlük.",
+        "6": "Sorumluluk ve aile.",
+        "7": "İçebakış ve analiz.",
+        "8": "Güç ve para.",
+        "9": "Bitişler ve arınma."
+      }
+    },
+    "6": {
+      "summary": "Sorumlu, Koruyucu, Sevgi Dolu",
+      "keywords": ["Aile", "Hizmet", "Sorumluluk", "Güzellik"],
+      "deepAnalysis": [
+        {
+          "title": "Karakter Özü ve Motivasyon",
+          "content": "Yaşam Yolu 6, kozmik ebeveyn ve şifacıdır. Hayatının merkezinde aile, ev ve toplum hizmeti vardır. Sorumluluk duygun çok gelişmiştir; sevdiklerini korumak ve kollamak için her şeyi yaparsın. Güzelliğe, sanata ve uyuma düşkünsün. Adalet ve denge arayışın yüksektir. İnsanlara yardım etmek, öğüt vermek ve sorunları çözmek senin doğal yeteneğindir. Sen güvenli bir limansın."
+        },
+        {
+          "title": "Gölge Taraf ve Tuzaklar",
+          "content": "Aşırı korumacılık, müdahaleciliğe dönüşebilir. Başkalarının hayatını kontrol etmeye çalışmak ve 'ben senin için en iyisini biliyorum' tavrı gölge yanındır. Kendini feda ederek mağdur rolüne bürünebilirsin. Mükemmeliyetçiliğin, hem kendini hem de başkalarını sürekli eleştirmene neden olabilir. Hayır diyememek, enerjini tüketir. Kendi ihtiyaçlarını başkalarının önüne koymayı öğrenmelisin."
+        },
+        {
+          "title": "İlişkilerde Dinamikler",
+          "content": "Aşk ve evlilik senin için kutsaldır. Sadık, şefkatli ve verici bir eşsin. Yuvanı bir kale gibi korursun. Ancak partnerini boğmamaya dikkat etmelisin. İlişkide uyum bozulduğunda çok üzülürsün. Romantizm ve estetik senin için önemlidir. Partnerinden de aynı sadakati ve sorumluluk bilincini beklersin. Aile kurmak en büyük hayalindir."
+        },
+        {
+          "title": "İş, Para ve Kariyer",
+          "content": "Öğretmenlik, doktorluk, danışmanlık, dekorasyon, sanat veya sosyal hizmetler alanında başarılısın. İnsanlara hizmet ettiğin ve güzellik yarattığın her işte parlarsın. İş yerinde sorumluluk almaktan kaçmazsın. Para, sevdiklerine konfor sağlamak için bir araçtır. Güvenli ve saygın bir kariyer istersin."
+        },
+        {
+          "title": "Hayat Dersi ve Ruhsal Tema",
+          "content": "Ruhsal dersin, dengeli vermeyi öğrenmektir. Başkalarını kurtarmaya çalışırken kendini kaybetmemelisin. Mükemmeliyetçiliği bırakıp hayatı olduğu gibi kabul etmelisin. Senin görevin, sevgi ve uyumu dünyaya yaymaktır ancak önce kendini sevmelisin. 'Hayır' demek de bir sevgi eylemidir."
+        }
+      ],
+      "personalYearThemes": {
+        "1": "Yeni başlangıçlar.",
+        "2": "İşbirliği ve denge.",
+        "3": "Yaratıcılık ve neşe.",
+        "4": "Çalışma ve temel atma.",
+        "5": "Değişim ve esneklik.",
+        "6": "Zirve yılı: Evlilik, aile, sorumluluk ve hizmet.",
+        "7": "Dinlenme ve ruhsal gelişim.",
+        "8": "Başarı ve maddi güç.",
+        "9": "Tamamlanma ve bitiş."
+      }
+    },
+    "7": {
+      "summary": "Analitik, Bilge, Mistik",
+      "keywords": ["Bilgelik", "Analiz", "Gizem", "Yalnızlık"],
+      "deepAnalysis": [
+        {
+          "title": "Karakter Özü ve Motivasyon",
+          "content": "Yaşam Yolu 7, hakikat arayıcısıdır. Derin, analitik ve mistik bir zihne sahipsin. Yüzeysel bilgiyle yetinmez, her şeyin kökenini araştırırsın. Bilimsel zeka ile ruhsal sezgiyi birleştirme potansiyelin vardır. Yalnızlık senin için bir ihtiyaçtır; kalabalıklar enerjini tüketir. Doğayla ve evrenle derin bir bağın vardır. Sen modern dünyanın filozofu ve araştırmacısısın."
+        },
+        {
+          "title": "Gölge Taraf ve Tuzaklar",
+          "content": "Aşırı şüphecilik, insanlara güvenmemek ve kendini izole etmek en büyük tuzaklarındır. Soğuk ve mesafeli görünebilirsin, bu da sevdiklerini uzaklaştırır. Melankoliye ve depresyona yatkın olabilirsin. Kendi zihninde kaybolup gerçek dünyadan kopma riskin vardır. Eleştirel ve iğneleyici dilinle insanları kırabilirsin. Duygularını ifade etmekte zorlanabilirsin."
+        },
+        {
+          "title": "İlişkilerde Dinamikler",
+          "content": "İlişkilerde seçici ve zor birisin. Zihinsel uyum senin için fiziksel çekimden önce gelir. Partnerin senin yalnızlık ihtiyacına saygı duymalı ve entelektüel olarak sana meydan okuyabilmelidir. Duygularını açmak zaman alır. Güvendiğinde sadıksın ancak her zaman kendine ait gizli bir bahçen olacaktır. Gürültülü ve sığ insanlar sana göre değildir."
+        },
+        {
+          "title": "İş, Para ve Kariyer",
+          "content": "Bilim insanı, araştırmacı, yazar, dedektif, psikolog veya yazılımcı olabilirsin. Tek başına çalışabileceğin ve derinleşebileceğin işler sana uygundur. Para senin için bir amaç değildir; sadece araştırmalarını sürdürmek için bir araçtır. Analitik zekan sayesinde stratejik yatırımlar yapabilirsin. Gürültülü ofis ortamları verimini düşürür."
+        },
+        {
+          "title": "Hayat Dersi ve Ruhsal Tema",
+          "content": "Ruhsal dersin, zihin ve kalp arasındaki köprüyü kurmaktır. Sadece mantığa güvenmek yerine sezgilerine ve inanca da yer açmalısın. İnsanlara güvenmeyi ve duvarlarını indirmeyi öğrenmelisin. Senin misyonun, evrensel bilgiyi keşfetmek ve bunu insanlıkla paylaşmaktır. Yalnızlığın bilgeliğe giden yol olduğunu, kaçış olmadığını fark etmelisin."
+        }
+      ],
+      "personalYearThemes": {
+        "1": "Yeni fikirler ve başlangıçlar.",
+        "2": "Bekleme ve sabır.",
+        "3": "İfade ve sosyalleşme (zorlanabilirsin).",
+        "4": "Çalışma ve düzen.",
+        "5": "Değişim ve hareket.",
+        "6": "Sorumluluk ve aile.",
+        "7": "Zirve yılı: İçebakış, meditasyon, analiz ve ruhsallık.",
+        "8": "Maddi hasat.",
+        "9": "Tamamlanma."
+      }
+    },
+    "8": {
+      "summary": "Güçlü, Yönetici, Vizyoner",
+      "keywords": ["Güç", "Para", "Otorite", "Başarı"],
+      "deepAnalysis": [
+        {
+          "title": "Karakter Özü ve Motivasyon",
+          "content": "Yaşam Yolu 8, maddi dünyanın ustasıdır. Güç, otorite ve başarı senin doğal alanındır. Büyük vizyonların vardır ve bunları gerçeğe dönüştürmek için gereken disiplin ve stratejiye sahipsin. Doğal bir yöneticisin. Para ve statü senin için önemlidir çünkü bunlar gücün sembolleridir. Zorluklar seni yıldırmaz, aksine güçlendirir. Adalet duygun gelişmiştir."
+        },
+        {
+          "title": "Gölge Taraf ve Tuzaklar",
+          "content": "Aşırı hırs, materyalizm ve güç zehirlenmesi gölge yanlarındır. İnsanları yönetilecek piyonlar olarak görebilirsin. İşkoliklik, sağlığını ve ilişkilerini bozabilir. Duyguları zayıflık olarak görüp bastırabilirsin. Kaybetme korkusu seni acımasız yapabilir. Dengeni kaybettiğinde zorba ve baskıcı olabilirsin. Manevi değerleri ihmal etmek seni mutsuzluğa sürükler."
+        },
+        {
+          "title": "İlişkilerde Dinamikler",
+          "content": "İlişkide kontrolü elinde tutmak istersin. Güçlü ve kendine yeten bir partner ararsın; zayıf karakterler ilgini çekmez. Partnerin senin hırsına ve yoğun çalışma tempona uyum sağlamalıdır. Sadakat ve destek beklersin. Cömertsin ve sevdiklerini lükse boğmayı seversin. Ancak duygusal yakınlık kurmakta zorlanabilirsin; sevgini parayla göstermeye çalışma."
+        },
+        {
+          "title": "İş, Para ve Kariyer",
+          "content": "CEO, bankacı, politikacı, hukukçu veya büyük çaplı girişimci olmak senin kaderindir. Risk almaktan ve büyük oynamaktan korkmazsın. Finansal zekan çok yüksektir. Kriz yönetiminde ustasın. Emir altında çalışamazsın, yöneten olmalısın. Para sana akar ancak etik değerlere sadık kalmalısın."
+        },
+        {
+          "title": "Hayat Dersi ve Ruhsal Tema",
+          "content": "Ruhsal dersin, gücü sevgiyle dengelemektir. Maddi başarıyı manevi tatminle birleştirmelisin. Parayı sadece kendi çıkarın için değil, toplumun yararı için kullanmayı öğrenmelisin. Gerçek gücün içsel olduğunu ve paylaşarak çoğaldığını anlamak senin ustalığındır. Egonu aşıp hizmet etmeyi öğrenmelisin."
+        }
+      ],
+      "personalYearThemes": {
+        "1": "Yeni projeler ve atılım.",
+        "2": "İşbirliği ve strateji.",
+        "3": "Yaratıcı riskler.",
+        "4": "Çalışma ve sağlamlaştırma.",
+        "5": "Değişim ve genişleme.",
+        "6": "Sorumluluk ve hizmet.",
+        "7": "Stratejik planlama ve analiz.",
+        "8": "Zirve yılı: Büyük başarı, kazanç, güç ve otorite.",
+        "9": "Tamamlanma ve bağış."
+      }
+    },
+    "9": {
+      "summary": "Hümanist, Şefkatli, Bilge",
+      "keywords": ["Evrensellik", "Tamamlanma", "Şefkat", "Sanat"],
+      "deepAnalysis": [
+        {
+          "title": "Karakter Özü ve Motivasyon",
+          "content": "Yaşam Yolu 9, evrensel sevginin ve bilgeliğin sayısıdır. Sen 'yaşlı ruh'sun. Dünyayı daha iyi bir yer yapma arzusuyla dolusun. Önyargısız, hoşgörülü ve cömertsin. Sanatsal ve yaratıcı yeteneklerin yüksektir. İnsanlara rehberlik etmek, şifa vermek ve ilham olmak için buradasın. Maddi hırsların ötesinde, manevi tatmin ararsın. Karizmatik ve etkileyicisin."
+        },
+        {
+          "title": "Gölge Taraf ve Tuzaklar",
+          "content": "Hayal kırıklığı, acı çekme ve kurban psikolojisi gölge yanlarındır. İnsanlardan beklentin yüksek olduğu için sıkça üzülürsün. Geçmişe takılı kalmak ve affedememek seni zehirler. Kendini feda etme derecesinde verici olabilir, sonra da nankörlükle suçlayabilirsin. Duygusal dalgalanmaların yoğundur. Gerçeklerden kaçıp hayal dünyasına sığınabilirsin."
+        },
+        {
+          "title": "İlişkilerde Dinamikler",
+          "content": "Romantik, idealist ve tutkulu bir aşıksın. İlişkide derin ruhsal bağ ararsın. Çok vericisini ancak sınır koymayı öğrenmelisin. Partnerini idealize edip sonra hayal kırıklığı yaşayabilirsin. Özgürlüğüne düşkünsün; kısıtlanmak seni boğar. Seni anlayan, vizyonuna saygı duyan ve duygusal derinliği olan bir eşe ihtiyacın var."
+        },
+        {
+          "title": "İş, Para ve Kariyer",
+          "content": "Sanat, eğitim, sağlık, hukuk, sivil toplum veya uluslararası ilişkiler alanlarında başarılısın. İnsanlığa fayda sağlayan her iş sana uygundur. Para peşinde koşmazsın ama cömertliğin sayesinde sana gelir. Liderlik edebilirsin ancak bu otoriter değil, ilham verici bir liderliktir. Dünyayı gezmek ve farklı kültürleri tanımak işinin bir parçası olmalı."
+        },
+        {
+          "title": "Hayat Dersi ve Ruhsal Tema",
+          "content": "Ruhsal dersin, bırakmayı ve affetmeyi öğrenmektir. Geçmişi serbest bırakıp ana odaklanmalısın. Koşulsuz sevgiyi öğrenmek ve beklentisiz vermek senin sınavındır. Sen bir tamamlama enerjisisin; eskiyi bitirip yeniye yer açmakla görevlisin. Kendi acılarını şifaya dönüştürüp başkalarına ışık olmalısın."
+        }
+      ],
+      "personalYearThemes": {
+        "1": "Yeni başlangıçlar (zorlanabilirsin).",
+        "2": "İşbirliği ve sabır.",
+        "3": "Yaratıcılık ve neşe.",
+        "4": "Çalışma ve düzen.",
+        "5": "Değişim ve özgürlük.",
+        "6": "Sorumluluk ve sevgi.",
+        "7": "İçebakış ve ruhsallık.",
+        "8": "Başarı ve hasat.",
+        "9": "Zirve yılı: Bitişler, tamamlanma, arınma ve evrensel sevgi."
+      }
+    },
     "11": {
       "summary": "Aydınlatıcı, Sezgisel, Vizyoner",
       "keywords": ["Sezgi", "İlham", "Aydınlanma", "Duyarlılık"],
@@ -109,6 +368,43 @@
         "7": "Derin içsel yolculuk ve spiritüel çalışmalar için mükemmel.",
         "8": "Manevi gücünü maddi başarıya dönüştür.",
         "9": "Eski inanç kalıplarını bırak ve arın."
+      }
+    },
+    "22": {
+      "summary": "Usta Mimar, Vizyoner, İnşa Edici",
+      "keywords": ["İnşa", "Vizyon", "Pratiklik", "Büyük Başarı"],
+      "deepAnalysis": [
+        {
+          "title": "Karakter Özü ve Motivasyon",
+          "content": "Master Sayı 22, 'Usta Mimar'dır. 4'ün pratikliğini ve 11'in vizyonunu birleştirir. Hayalleri gerçeğe dönüştürme gücü en yüksek sayıdır. Sadece kendin için değil, insanlık için büyük sistemler, kurumlar veya yapılar inşa etmek istersin. Ayakları yere basan bir idealistsin. Potansiyelin sınırsızdır; imkansız görüneni başarmak senin işindir. Disiplinli ve kararlısın."
+        },
+        {
+          "title": "Gölge Taraf ve Tuzaklar",
+          "content": "Kendi potansiyelinden korkmak ve sorumluluktan kaçmak en büyük tehlikedir. Başarısızlık korkusu seni felç edebilir. Aşırı stres, sinirsel gerginlik ve sağlık sorunlarına yol açabilir. Manipülatif olabilir, gücünü kötüye kullanabilirsin. Detaylarda boğulup vizyonunu kaybedebilirsin. Tembellik edersen sıradan bir 4 enerjisine düşersin."
+        },
+        {
+          "title": "İlişkilerde Dinamikler",
+          "content": "İlişkilerde güven, istikrar ve destek ararsın. Partnerin senin büyük hedeflerine saygı duymalı ve sana destek olmalıdır. Duygusal olarak biraz mesafeli görünebilirsin çünkü zihnin sürekli projelerle meşguldür. Sadıksın ve aileni korursun. Ancak işkoliklik evliliğini zedeleyebilir. Duygularını ifade etmeyi öğrenmelisin."
+        },
+        {
+          "title": "İş, Para ve Kariyer",
+          "content": "Uluslararası iş dünyası, politika, mühendislik, mimarlık veya büyük organizasyonların liderliği sana uygundur. Küresel çapta işler yapabilirsin. Maddi başarı ve servet senin için doğal bir sonuçtur. Ancak amacın sadece para değil, kalıcı bir miras bırakmaktır. Büyük ekipleri yönetme yeteneğin vardır."
+        },
+        {
+          "title": "Hayat Dersi ve Ruhsal Tema",
+          "content": "Ruhsal dersin, vizyonunu pratik adımlarla birleştirmektir. Hayal kurmak yetmez, tuğla tuğla inşa etmelisin. Gücünü insanlığın yararına kullanmalı, bencil hırslardan arınmalısın. Sabır ve disiplinle, dünyayı değiştirebilecek somut eserler bırakmak senin kaderindir."
+        }
+      ],
+      "personalYearThemes": {
+        "1": "Büyük projelerin başlangıcı.",
+        "2": "Stratejik ortaklıklar.",
+        "3": "Yaratıcı çözümler.",
+        "4": "Çok çalışma ve temel atma (22 titreşimi).",
+        "5": "Uluslararası açılımlar.",
+        "6": "Toplumsal sorumluluk.",
+        "7": "Strateji geliştirme.",
+        "8": "Büyük başarı ve güç.",
+        "9": "Tamamlanma ve vizyon yenileme."
       }
     },
      "33": {
