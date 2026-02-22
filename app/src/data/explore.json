@@ -1,0 +1,94 @@
+{
+  "1": {
+    "celebrities": [
+      {"name": "Steve Jobs", "date": "1955-02-24", "note": "Teknoloji vizyoneri."},
+      {"name": "Marilyn Monroe", "date": "1926-06-01", "note": "İkonik film yıldızı."},
+      {"name": "Martin Luther King Jr.", "date": "1929-01-15", "note": "Lider ve aktivist."},
+      {"name": "Lady Gaga", "date": "1986-03-28", "note": "Yenilikçi sanatçı."},
+      {"name": "Scarlett Johansson", "date": "1984-11-22", "note": "Güçlü aktris."},
+      {"name": "Tom Hanks", "date": "1956-07-09", "note": "Efsanevi oyuncu."},
+      {"name": "Shakira", "date": "1977-02-02", "note": "Global müzik ikonu."},
+      {"name": "Tiger Woods", "date": "1975-12-30", "note": "Spor efsanesi."},
+      {"name": "Henry Ford", "date": "1863-07-30", "note": "Sanayi devrimcisi."},
+      {"name": "Walt Disney", "date": "1901-12-05", "note": "Eğlence devi kurucusu."
+    ],
+    "brands": [
+      {"name": "Apple", "date": "1976-04-01", "note": "İnovasyon lideri."},
+      {"name": "Tesla", "date": "2003-07-01", "note": "Otomotiv devrimcisi."},
+      {"name": "Nike", "date": "1964-01-25", "note": "Spor giyim öncüsü."},
+      {"name": "Amazon", "date": "1994-07-05", "note": "E-ticaret devi."},
+      {"name": "Microsoft", "date": "1975-04-04", "note": "Yazılım öncüsü."},
+      {"name": "Ford", "date": "1903-06-16", "note": "Otomotivin atası."},
+      {"name": "Harvard University", "date": "1636-09-08", "note": "Eğitim lideri."},
+      {"name": "Chanel", "date": "1910-01-01", "note": "Moda ikonu."}
+    ],
+    "countries": [
+      {"name": "Amerika Birleşik Devletleri", "date": "1776-07-04", "note": "Bağımsızlık günü."},
+      {"name": "İran", "date": "1979-04-01", "note": "Cumhuriyet ilanı."},
+      {"name": "Meksika", "date": "1810-09-16", "note": "Bağımsızlık savaşı."},
+      {"name": "İrlanda", "date": "1937-12-29", "note": "Anayasa kabulü."}
+    ]
+  },
+  "4": {
+    "celebrities": [
+      {"name": "Bill Gates", "date": "1955-10-28", "note": "Yazılım mimarı."},
+      {"name": "Oprah Winfrey", "date": "1954-01-29", "note": "Medya patronu."},
+      {"name": "Elton John", "date": "1947-03-25", "note": "Müzik efsanesi."},
+      {"name": "Nicole Kidman", "date": "1967-06-20", "note": "Zarif oyuncu."},
+      {"name": "Arnold Schwarzenegger", "date": "1947-07-30", "note": "Disiplin abidesi."},
+      {"name": "Margaret Thatcher", "date": "1925-10-13", "note": "Demir Leydi."},
+      {"name": "Leonardo da Vinci", "date": "1452-04-15", "note": "Evrensel deha."}
+    ],
+    "brands": [
+      {"name": "Google", "date": "1998-09-04", "note": "Bilgi düzenleyicisi."},
+      {"name": "IBM", "date": "1911-06-16", "note": "Teknoloji köklü çınarı."},
+      {"name": "Rolex", "date": "1905-01-01", "note": "Zamanın efendisi."},
+      {"name": "McDonald's", "date": "1955-04-15", "note": "Sistemli gıda devi."}
+    ],
+    "countries": [
+      {"name": "Japonya", "date": "1947-05-03", "note": "Anayasa günü."},
+      {"name": "Almanya", "date": "1990-10-03", "note": "Birleşme günü."}
+    ]
+  },
+  "11": {
+    "celebrities": [
+      {"name": "Barack Obama", "date": "1961-08-04", "note": "İlham veren lider."},
+      {"name": "Michelle Obama", "date": "1964-01-17", "note": "Güçlü rol model."},
+      {"name": "Jennifer Aniston", "date": "1969-02-11", "note": "Sevilen yıldız."},
+      {"name": "Kanye West", "date": "1977-06-08", "note": "Vizyoner sanatçı."},
+      {"name": "Wolfgang Amadeus Mozart", "date": "1756-01-27", "note": "Müzik dehası."},
+      {"name": "Prenses Diana", "date": "1961-07-01", "note": "Kalplerin kraliçesi."}
+    ],
+    "brands": [
+      {"name": "SpaceX", "date": "2002-03-14", "note": "Geleceği inşa eden."},
+      {"name": "Twitter", "date": "2006-03-21", "note": "Fikir platformu."}
+    ],
+    "countries": [
+      {"name": "İsrail", "date": "1948-05-14", "note": "Kuruluş."}
+    ]
+  },
+  "22": {
+    "celebrities": [
+      {"name": "Will Smith", "date": "1968-09-25", "note": "Global yıldız."},
+      {"name": "Paul McCartney", "date": "1942-06-18", "note": "Müzik mimarı."},
+      {"name": "Dalai Lama", "date": "1935-07-06", "note": "Ruhsal lider."}
+    ],
+    "brands": [
+      {"name": "Instagram", "date": "2010-10-06", "note": "Görsel devrim."}
+    ],
+    "countries": [
+      {"name": "Çin Halk Cumhuriyeti", "date": "1949-10-01", "note": "Kuruluş."}
+    ]
+  },
+  "33": {
+    "celebrities": [
+      {"name": "Meryl Streep", "date": "1949-06-22", "note": "Oyunculuk üstadı."},
+      {"name": "Stephen King", "date": "1947-09-21", "note": "Hikaye anlatıcısı."},
+      {"name": "Salma Hayek", "date": "1966-09-02", "note": "Tutkulu sanatçı."}
+    ],
+    "brands": [
+      {"name": "Disney+", "date": "2019-11-12", "note": "Eğlence platformu."}
+    ],
+    "countries": []
+  }
+}

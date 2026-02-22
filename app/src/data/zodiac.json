@@ -1,0 +1,326 @@
+{
+  "Rat": {
+    "name": "Fare",
+    "element": "Su",
+    "summary": "Zeki, Kaynak Yaratan, Çekici",
+    "deepAnalysis": [
+      {
+        "title": "Karakter Özü ve Motivasyon",
+        "content": "Çin zodyağının ilk burcu Fare, zekası, adaptasyon yeteneği ve hızlı düşünme becerisiyle tanınır. Doğuştan gelen bir hayatta kalma ustasıdır. Cazibeli, sosyal ve esprilidir. Fırsatları başkalarından önce görür ve değerlendirir. Meraklı doğası, her ortamda bilgi toplamasını ve avantaj elde etmesini sağlar. Tutumludur, biriktirmeyi sever ve kriz anlarında asla paniğe kapılmaz."
+      },
+      {
+        "title": "Gölge Taraf ve Tuzaklar",
+        "content": "Kurnazlığı bazen manipülasyona dönüşebilir. Kendi çıkarını her şeyin önünde tutma eğilimi, güvenilmezlik damgası yemesine neden olabilir. Eleştirel ve iğneleyici dili, ilişkilerini zedeler. Aşırı hırs, etik sınırları zorlamasına yol açabilir. Dedikodu yapmaya ve sır tutamamaya yatkın olabilir. Küçük hesaplar peşinde koşarken büyük resmi kaçırmamalıdır."
+      },
+      {
+        "title": "İlişkilerde Dinamikler",
+        "content": "Aşkta romantik ve tutkuludur ancak kıskanç olabilir. Partnerine karşı korumacıdır. Sosyal çevresi geniştir, bu yüzden partnerinin de dışadönük olması uyumu artırır. İlişkide heyecan ve yenilik arar; sıkıcı rutinler onu kaçırır. Öküz, Ejderha ve Maymun ile harika anlaşır. At burcuyla zıtlaşabilir."
+      },
+      {
+        "title": "İş, Para ve Kariyer",
+        "content": "Ticaret, finans, yazarlık, eleştirmenlik veya danışmanlık alanlarında başarılıdır. Para kokusunu iyi alır. Risk almaktan çekinmez ancak her zaman bir B planı vardır. Takım çalışmasından çok bireysel başarılara odaklanabilir. Pazarlık yapmada üstüne yoktur. Zekasını kullanarak kısa yoldan servet edinme potansiyeli yüksektir."
+      },
+      {
+        "title": "Hayat Dersi ve Ruhsal Tema",
+        "content": "Hayat dersi, dürüstlük ve paylaşmayı öğrenmektir. Sadece kendi kileri için değil, toplum için de biriktirmelidir. Keskin zekasını iyilik ve bilgelik yolunda kullanırsa saygı görür. 'Bütünün hayrı' kavramını içselleştirmelidir. Gerçek zenginliğin sadece maddi birikim değil, manevi huzur olduğunu fark etmelidir."
+      }
+    ]
+  },
+  "Ox": {
+    "name": "Öküz",
+    "element": "Toprak",
+    "summary": "Güçlü, Güvenilir, Kararlı",
+    "deepAnalysis": [
+      {
+        "title": "Karakter Özü ve Motivasyon",
+        "content": "Öküz, çalışkanlığın, dayanıklılığın ve dürüstlüğün simgesidir. Yavaş ama emin adımlarla hedefine ilerler. Sözüne sadıktır; bir işi yarım bıraktığı görülmemiştir. Geleneksel değerlere önem verir, ailesine ve dostlarına derinden bağlıdır. Liderlik etmeyi sevmez ancak sorumluluk verildiğinde en iyisini yapar. Sabrı efsanevidir ancak öfkelendiğinde yıkıcı olabilir."
+      },
+      {
+        "title": "Gölge Taraf ve Tuzaklar",
+        "content": "İnatçılığı en büyük engelidir; fikrini değiştirmek neredeyse imkansızdır. Yeniliklere kapalı olabilir ve esneklik gösteremez. İletişimde zayıf kalabilir, duygularını ifade etmekte zorlanır. Aşırı ciddi ve katı tutumu, eğlenceden uzaklaşmasına neden olur. Kindar olabilir; yapılan yanlışı asla unutmaz. Başkalarının hızına ayak uydurmakta zorlanabilir."
+      },
+      {
+        "title": "İlişkilerde Dinamikler",
+        "content": "Sadakat ve güven ilişkideki en önemli kriteridir. Romantik jestlerden çok, somut destekle sevgisini gösterir. Aldatmayı asla affetmez. Uzun vadeli, evlilik odaklı ilişkiler kurar. Fare, Yılan ve Horoz ile mükemmel uyum sağlar. Keçi burcuyla çatışma yaşayabilir. Partneri onun sessiz sevgisini anlamalıdır."
+      },
+      {
+        "title": "İş, Para ve Kariyer",
+        "content": "Tarım, inşaat, mühendislik, askerlik veya politika gibi disiplin gerektiren işlerde parlar. Metodik ve titiz çalışmasıyla tanınır. Spekülatif kazançlar peşinde koşmaz; alın teriyle kazanır. Sabırlı yatırımları sever. İş yerinde güvenilir bir dayanak noktasıdır. Yöneticiler tarafından çok takdir edilir."
+      },
+      {
+        "title": "Hayat Dersi ve Ruhsal Tema",
+        "content": "Ruhsal görevi, esnemeyi ve akışa güvenmeyi öğrenmektir. Hayatın her zaman kontrol edilemeyeceğini kabul etmelidir. Duygularını açmayı ve yardım istemeyi öğrenmek onu özgürleştirir. Sabrını bilgelikle birleştirdiğinde, çevresine huzur veren bir dağ gibi sarsılmaz olur."
+      }
+    ]
+  },
+    "Tiger": {
+    "name": "Kaplan",
+    "element": "Ahşap",
+    "summary": "Cesur, Rekabetçi, Tutkulu",
+    "deepAnalysis": [
+      {
+        "title": "Karakter Özü ve Motivasyon",
+        "content": "Kaplan, gücün, cesaretin ve karizmanın sembolüdür. Doğal bir liderdir, korkusuzca risk alır. Adalet duygusu çok gelişmiştir; haksızlığa asla tahammül edemez. Enerjisi bulaşıcıdır, girdiği her ortamda dikkat çeker. Özgürlüğüne düşkündür, kısıtlanmaktan nefret eder. Hayatı bir macera olarak görür ve tutkuyla yaşar."
+      },
+      {
+        "title": "Gölge Taraf ve Tuzaklar",
+        "content": "Dürtüsel ve asidir. Sonunu düşünmeden harekete geçebilir. Otoriteyle sürekli çatışma halindedir. Öfke patlamaları yaşayabilir. Bazen bencil ve küstah davranabilir. Kararsızlık yaşayabilir, bir hedeften diğerine atlayabilir. Dinlemeyi öğrenmeli ve başkalarının görüşlerine değer vermelidir."
+      },
+      {
+        "title": "İlişkilerde Dinamikler",
+        "content": "Aşkta yoğun, tutkulu ve sahiplenicidir. Romantizmi doruklarda yaşar ancak çabuk sıkılabilir. Bağımsızlığına saygı duyulmalıdır. At, Köpek ve Domuz ile iyi anlaşır. Maymun burcuyla zıtlaşır. Partneri onun enerjisine ayak uydurabilmeli ve onu dizginlemeye çalışmamalıdır."
+      },
+      {
+        "title": "İş, Para ve Kariyer",
+        "content": "Yöneticilik, siyaset, askerlik, spor veya sahne sanatları gibi alanlarda başarılıdır. Rutin işler onu öldürür. Kendi işini kurmayı tercih eder. Para harcamayı sever, cömerttir. Riskli yatırımlardan büyük kazançlar elde edebilir ancak dikkatli olmalıdır. Rekabeti sever ve kazanmak için savaşır."
+      },
+      {
+        "title": "Hayat Dersi ve Ruhsal Tema",
+        "content": "Ruhsal dersi, içsel huzuru bulmak ve öfkesini yönetmektir. Gücünü yapıcı bir şekilde kullanmayı öğrenmelidir. 'Savaşçı' arketipini 'Barışçıl Savaşçı'ya dönüştürmelidir. Dürtülerini kontrol altına aldığında, gerçek bir kahraman olur."
+      }
+    ]
+  },
+  "Rabbit": {
+    "name": "Tavşan",
+    "element": "Ahşap",
+    "summary": "Zarif, Diplomatik, Şanslı",
+    "deepAnalysis": [
+      {
+        "title": "Karakter Özü ve Motivasyon",
+        "content": "Tavşan, zarafet, nezaket ve diplomasinin temsilcisidir. Barışçıl bir doğası vardır, çatışmadan kaçınır. Sanatçı ruhludur, güzelliğe ve estetiğe önem verir. Şanslı bir burç olarak kabul edilir. İyi bir dinleyicidir ve empati yeteneği yüksektir. Sosyal çevresinde sevilen, aranan bir kişidir. Evine ve konforuna düşkündür."
+      },
+      {
+        "title": "Gölge Taraf ve Tuzaklar",
+        "content": "Aşırı temkinli ve ürkek olabilir. Sorunlarla yüzleşmek yerine kaçmayı tercih edebilir. Yüzeysel olabilir, zorluklardan çabuk pes edebilir. Karamsarlığa kapılabilir. Bazen kendini beğenmiş ve mesafeli görünebilir. 'Hayır' demekte zorlanabilir. Kendi çıkarlarını korumak için pasif-agresif davranabilir."
+      },
+      {
+        "title": "İlişkilerde Dinamikler",
+        "content": "Romantik, nazik ve düşüncelidir. Güven ve huzur arar. Partnerine sadıktır ancak duygusal güvence ister. Keçi, Köpek ve Domuz ile uyumludur. Horoz burcuyla anlaşamaz. İlişkide tartışma ve gerginlikten nefret eder. Partneri onun hassas ruhuna özen göstermelidir."
+      },
+      {
+        "title": "İş, Para ve Kariyer",
+        "content": "Sanat, tasarım, diplomasi, hukuk, halkla ilişkiler veya öğretmenlik gibi alanlarda başarılıdır. İkna kabiliyeti yüksektir. Finansal konularda şanslıdır ve iyi yatırım yapar. Lüksü sever ancak harcamalarında dengelidir. Huzurlu bir çalışma ortamına ihtiyaç duyar."
+      },
+      {
+        "title": "Hayat Dersi ve Ruhsal Tema",
+        "content": "Ruhsal amacı, korkularıyla yüzleşmek ve içsel gücünü keşfetmektir. Kaçmak yerine sorunların üstüne gitmeyi öğrenmelidir. Nezaketini zayıflık değil, güç olarak kullanmalıdır. Kendi değerini bilmeli ve sınırlarını çizebilmelidir."
+      }
+    ]
+  },
+  "Dragon": {
+    "name": "Ejderha",
+    "element": "Toprak",
+    "summary": "Güçlü, Karizmatik, Şanslı",
+    "deepAnalysis": [
+      {
+        "title": "Karakter Özü ve Motivasyon",
+        "content": "Çin zodyağının en güçlü ve şanslı burcu sayılan Ejderha, doğal bir liderdir. Enerjik, coşkulu ve hırslıdır. Büyük hayalleri ve vizyonları vardır. Özgüveni yüksektir ve etrafına ışık saçar. Otoriteyi temsil eder ve saygı bekler. Mükemmeliyetçidir, hem kendisinden hem de başkalarından çok şey bekler."
+      },
+      {
+        "title": "Gölge Taraf ve Tuzaklar",
+        "content": "Kibirlilik, baskıcılık ve tahammülsüzlük en büyük tuzaklarıdır. Eleştiriye gelemez. Öfkesi yıkıcı olabilir. Kendi doğrularını dayatmaya çalışabilir. Bazen gerçeklerden kopup hayal dünyasında yaşayabilir. 'Ben merkezci' olabilir ve başkalarının duygularını ihmal edebilir. Başarısızlığı kabullenmekte zorlanır."
+      },
+      {
+        "title": "İlişkilerde Dinamikler",
+        "content": "Aşkta tutkulu ve cömerttir ancak hükmetmeyi sever. Hayranlık bekler. Partneri güçlü ve kendine güvenen biri olmalıdır. Fare, Maymun ve Horoz ile çok iyi anlaşır. Köpek burcuyla zıtlaşır. İlişkide monotonluktan nefret eder, sürekli heyecan arar. Sadıktır ancak ilgisizliğe gelemez."
+      },
+      {
+        "title": "İş, Para ve Kariyer",
+        "content": "Her türlü liderlik pozisyonu, politika, sanat, medya veya girişimcilik ona uygundur. Rutin işler onu boğar. Büyük projeleri yönetmeyi sever. Para kazanma konusunda yeteneklidir ancak harcamayı da sever. Risk almaktan korkmaz. Başarı onun için kaçınılmazdır."
+      },
+      {
+        "title": "Hayat Dersi ve Ruhsal Tema",
+        "content": "Ruhsal dersi, alçakgönüllülüğü öğrenmek ve egusunu terbiye etmektir. Gücünü başkalarına hizmet etmek ve onları yükseltmek için kullanmalıdır. İşbirliği yapmayı ve dinlemeyi öğrenmelidir. Gerçek gücün sevgi ve şefkatten geldiğini anlamalıdır."
+      }
+    ]
+  },
+    "Snake": {
+    "name": "Yılan",
+    "element": "Ateş",
+    "summary": "Bilge, Gizemli, Sezgisel",
+    "deepAnalysis": [
+      {
+        "title": "Karakter Özü ve Motivasyon",
+        "content": "Yılan, zodyağın en gizemli ve bilge burcudur. Derin düşünür, sezgileri çok kuvvetlidir. Soğukkanlı ve zariftir. Olayları analiz etmeden harekete geçmez. Felsefi bir yanı vardır. Mahremiyetine çok önem verir. Hedefine sessizce ve kararlılıkla ilerler. Çekiciliği ve karizmasıyla insanları etkiler."
+      },
+      {
+        "title": "Gölge Taraf ve Tuzaklar",
+        "content": "Kıskançlık, şüphecilik ve sahiplenme duygusu ilişkilerini zorlayabilir. Kindar olabilir; yapılanı unutmaz ve intikam alabilir. Sır saklamayı sever ancak başkalarının sırlarını öğrenmeye çalışır. Tembelliğe yatkın olabilir. Bazen manipülatif ve hesapçı davranabilir. Güvensizlik sorunu yaşayabilir."
+      },
+      {
+        "title": "İlişkilerde Dinamikler",
+        "content": "Aşkta tutkulu, romantik ve son derece sahiplenicidir. Partnerini kıskanır. Sadakat bekler ancak kendi sadakati konusunda esnek olabilir. Öküz ve Horoz ile mükemmel uyum sağlar. Domuz burcuyla anlaşamaz. İlişkide derin bağlar kurmak ister. Partneri onun güvenini kazanmalıdır."
+      },
+      {
+        "title": "İş, Para ve Kariyer",
+        "content": "Araştırmacı, bilim insanı, dedektif, psikolog, astrolog veya filozof olabilir. Finansal konularda çok yeteneklidir; parayı çoğaltmayı bilir. Sezgilerine güvenerek doğru yatırımlar yapar. Stresli ortamlarda sakin kalabilir. Kendi hızında çalışmayı tercih eder."
+      },
+      {
+        "title": "Hayat Dersi ve Ruhsal Tema",
+        "content": "Hayat dersi, affetmeyi ve güvenmeyi öğrenmektir. Şüphelerini bir kenara bırakıp kalbini açmalıdır. Bilgeliğini insanlarla paylaşmalıdır. Deri değiştiren bir yılan gibi, sürekli kendini yenilemeli ve dönüştürmelidir."
+      }
+    ]
+  },
+   "Horse": {
+    "name": "At",
+    "element": "Ateş",
+    "summary": "Özgür, Enerjik, Popüler",
+    "deepAnalysis": [
+      {
+        "title": "Karakter Özü ve Motivasyon",
+        "content": "At burcu, özgürlüğün, hızın ve enerjinin sembolüdür. Yerinde duramaz, sürekli hareket halindedir. Sosyal, neşeli ve konuşkandır. Macerayı sever, yeni yerler keşfetmek ister. Bağımsızlığına çok düşkündür. Zekidir ve çabuk kavrar. İnsanlar arasında popülerdir, eğlenceli kişiliğiyle sevilir."
+      },
+      {
+        "title": "Gölge Taraf ve Tuzaklar",
+        "content": "Sabırsızlık, en büyük zayıflığıdır. Bir işten diğerine çabuk atlar, maymun iştahlı olabilir. Dinlemeyi bilmez, söz keser. Bencillik edebilir, kendi isteklerini önceler. Öfkesi saman alevi gibidir. Sorumluluktan kaçabilir. İlişkilerde bağlanma sorunu yaşayabilir."
+      },
+      {
+        "title": "İlişkilerde Dinamikler",
+        "content": "Aşkta ateşli ve tutkuludur ancak çabuk soğuyabilir. Özgürlüğünün kısıtlanmasına gelemez. Kaplan, Köpek ve Keçi ile iyi anlaşır. Fare burcuyla zıtlaşır. Partneri onunla birlikte maceralara atılmalı ve onu sıkmamalıdır. Flörtöz yapısı kıskançlık krizlerine yol açabilir."
+      },
+      {
+        "title": "İş, Para ve Kariyer",
+        "content": "İletişim, satış, seyahat, spor, gazetecilik veya tercümanlık gibi hareketli işlerde başarılıdır. Rutin ofis işleri ona göre değildir. Çok çalışkandır ancak motive olması gerekir. Parayı geldiği gibi harcar, birikim yapmakta zorlanabilir. Kendi işini yapmayı sever."
+      },
+      {
+        "title": "Hayat Dersi ve Ruhsal Tema",
+        "content": "Ruhsal görevi, sabrı ve sebat etmeyi öğrenmektir. Başladığı işi bitirmeli ve sorumluluk almalıdır. Özgürlüğünü, başkalarının haklarına saygı duyarak yaşamalıdır. İçsel dinginliği bulmak için meditasyon yapmalıdır."
+      }
+    ]
+  },
+  "Goat": {
+    "name": "Keçi",
+    "element": "Toprak",
+    "summary": "Yaratıcı, Nazik, Empatik",
+    "deepAnalysis": [
+      {
+        "title": "Karakter Özü ve Motivasyon",
+        "content": "Keçi (veya Koyun), sanatçı ruhlu, nazik ve merhametlidir. Barışçıldır, tartışmadan kaçınır. Doğayı ve güzelliği sever. Yaratıcılığı çok yüksektir. Başkalarının duygularını anlar, iyi bir dert ortağıdır. Takım çalışmasına uygundur. Hayal gücü geniştir. Maddiyatçı değildir, manevi değerlere önem verir."
+      },
+      {
+        "title": "Gölge Taraf ve Tuzaklar",
+        "content": "Karamsarlık, endişe ve kararsızlık yaşayabilir. Sorumluluk almaktan kaçınabilir, başkalarına yaslanmayı tercih edebilir. Aşırı duygusal ve alıngandır. Tembelliğe meyillidir. Disiplinsiz olabilir. Eleştiriye dayanamaz. Zaman yönetiminde sorun yaşayabilir."
+      },
+      {
+        "title": "İlişkilerde Dinamikler",
+        "content": "Romantik, şefkatli ve bağımlı bir aşıktır. Korunup kollanmak ister. Tavşan, At ve Domuz ile çok iyi anlaşır. Öküz burcuyla çatışır. İlişkide huzur ve güven arar. Partneri ona yön vermeli ve desteklemelidir. Sadıktır ve ailesine düşkündür."
+      },
+      {
+        "title": "İş, Para ve Kariyer",
+        "content": "Sanat, tasarım, moda, yazarlık, müzik veya sağlık sektöründe başarılıdır. Rekabetçi ortamlarda zorlanır. Yaratıcılığını kullanabileceği işleri sever. Para konusunda şanslıdır, genellikle destek görür. Ancak harcamalarına dikkat etmelidir. Liderlikten çok, iyi bir ekip üyesi olur."
+      },
+      {
+        "title": "Hayat Dersi ve Ruhsal Tema",
+        "content": "Hayat dersi, kendine güvenmek ve kendi ayakları üzerinde durmaktır. Aşırı duyarlılığını yönetmeyi öğrenmelidir. Hayallerini gerçeğe dönüştürmek için disiplinli olmalıdır. İçindeki yaratıcı gücü korkusuzca ifade etmelidir."
+      }
+    ]
+  },
+    "Monkey": {
+    "name": "Maymun",
+    "element": "Metal",
+    "summary": "Zeki, Eğlenceli, Çözüm Odaklı",
+    "deepAnalysis": [
+      {
+        "title": "Karakter Özü ve Motivasyon",
+        "content": "Maymun, zekası, mizah anlayışı ve problem çözme yeteneğiyle tanınır. Çok yönlüdür, her işin altından kalkar. Meraklıdır, öğrenmeye açıktır. Eğlenceli ve sosyaldir, bulunduğu ortamı neşelendirir. Hızlı düşünür ve pratik çözümler üretir. Rekabeti sever ve kazanmak için strateji geliştirir. Yenilikçidir."
+      },
+      {
+        "title": "Gölge Taraf ve Tuzaklar",
+        "content": "Kurnazlık, manipülasyon ve kibir tuzağına düşebilir. Başkalarını küçümseyebilir. Sabırsızdır ve çabuk sıkılır. Sorumluluktan kaçmak için bahaneler üretebilir. Güvenilmez olabilir, verdiği sözü tutmayabilir. Dedikodu yapmayı sever. Çıkarı için kuralları esnetebilir."
+      },
+      {
+        "title": "İlişkilerde Dinamikler",
+        "content": "Aşkta heyecanlı, esprili ve çapkın olabilir. Zihinsel uyum arar; partneri zeki olmalıdır. Fare ve Ejderha ile mükemmel anlaşır. Kaplan burcuyla zıtlaşır. Uzun süreli ilişkilerde sadakat sorunu yaşayabilir. Ancak aşık olduğunda sadık ve eğlenceli bir partner olur."
+      },
+      {
+        "title": "İş, Para ve Kariyer",
+        "content": "Mühendislik, borsa, satış, reklamcılık veya şov dünyası ona uygundur. Rutin işlerde boğulur. Problem çözme gerektiren zorlu işleri sever. Finansal zekası yüksektir, risk alarak kazanabilir. Fırsatları iyi değerlendirir. Kariyerinde hızlı yükselir."
+      },
+      {
+        "title": "Hayat Dersi ve Ruhsal Tema",
+        "content": "Ruhsal dersi, dürüstlük ve empati geliştirmektir. Zekasını sadece kendi çıkarı için değil, insanlığın yararı için kullanmalıdır. Kibrini yenmeli ve başkalarına saygı duymalıdır. Gerçek bilgeliğin kalpte olduğunu keşfetmelidir."
+      }
+    ]
+  },
+  "Rooster": {
+    "name": "Horoz",
+    "element": "Metal",
+    "summary": "Çalışkan, Detaycı, Dürüst",
+    "deepAnalysis": [
+      {
+        "title": "Karakter Özü ve Motivasyon",
+        "content": "Horoz, çalışkanlığın, düzenin ve mükemmeliyetçiliğin simgesidir. Dürüsttür, sözünü sakınmaz. Detaylara çok önem verir. Giyimine ve dış görünüşüne özen gösterir. Organizasyon yeteneği gelişmiştir. Gözlemcidir, hiçbir hatayı kaçırmaz. Kendine güvenir ve yeteneklerini sergilemekten hoşlanır. Zaman yönetimi ustasıdır."
+      },
+      {
+        "title": "Gölge Taraf ve Tuzaklar",
+        "content": "Eleştirel, iğneleyici ve kaba olabilir. Başkalarının hatalarını yüzüne vurmaktan çekinmez. Mükemmeliyetçiliği takıntıya dönüşebilir. Esnek değildir, değişime direnir. Kibirli ve gösteriş budalası olabilir. Bazen boş konuşabilir. Sabırsızdır. İnsanları yargılama eğilimindedir."
+      },
+      {
+        "title": "İlişkilerde Dinamikler",
+        "content": "Sadık, koruyucu ve dürüst bir aşıktır. Romantizmden çok gerçekçiliğe önem verir. Öküz, Yılan ve Ejderha ile iyi anlaşır. Tavşan burcuyla çatışır. İlişkide kontrolü elinde tutmak ister. Partneri onun eleştirilerine dayanıklı olmalıdır. Ailesine çok düşkündür."
+      },
+      {
+        "title": "İş, Para ve Kariyer",
+        "content": "Muhasebe, bankacılık, cerrahlık, polislik veya gazetecilik gibi dikkat gerektiren işlerde başarılıdır. Çok çalışkandır. Finansal konularda tutumludur, bütçe yapmayı iyi bilir. Gösterişli harcamalar yapabilir ancak genelde hesabını bilir. Yöneticilik yeteneği vardır."
+      },
+      {
+        "title": "Hayat Dersi ve Ruhsal Tema",
+        "content": "Hayat dersi, esnek olmayı ve insanları olduğu gibi kabul etmeyi öğrenmektir. Eleştiriyi yapıcı hale getirmelidir. Dış görünüşten çok iç güzelliğe odaklanmalıdır. Alçakgönüllü olmayı öğrendiğinde gerçek saygıyı kazanır."
+      }
+    ]
+  },
+   "Dog": {
+    "name": "Köpek",
+    "element": "Toprak",
+    "summary": "Sadık, Adaletli, Koruyucu",
+    "deepAnalysis": [
+      {
+        "title": "Karakter Özü ve Motivasyon",
+        "content": "Köpek, sadakatin, dürüstlüğün ve adaletin temsilcisidir. Dostlarına ve inandığı değerlere sonuna kadar bağlıdır. Haksızlığa asla sessiz kalamaz. Yardımseverdir, başkalarının sorunlarını dinler. Güvenilirdir, sır saklar. Sezgileri kuvvetlidir, tehlikeyi önceden sezer. Gösterişten uzaktır, samimiyeti sever."
+      },
+      {
+        "title": "Gölge Taraf ve Tuzaklar",
+        "content": "Karamsar, endişeli ve şüpheci olabilir. Sürekli kötü bir şey olacakmış gibi tetiktedir. Eleştirel ve inatçı olabilir. Öfke kontrolü sorunu yaşayabilir. Geçmişe takılı kalabilir. Başkalarının sorunlarını fazla sahiplenip kendini yıpratabilir. Bazen soğuk ve mesafeli davranabilir."
+      },
+      {
+        "title": "İlişkilerde Dinamikler",
+        "content": "Aşkta sadık, fedakar ve güvenilirdir. Romantiktir ancak duygularını ifade etmekte zorlanabilir. Kaplan, At ve Tavşan ile çok iyi anlaşır. Ejderha burcuyla zıtlaşır. Aldatılmayı asla affetmez. Partnerine güvendiğinde ömür boyu bağlanır. Aile kurmaya isteklidir."
+      },
+      {
+        "title": "İş, Para ve Kariyer",
+        "content": "Hukuk, polislik, öğretmenlik, sosyal hizmetler veya sağlık alanında başarılıdır. Adalet duygusu onu bu alanlara çeker. Liderlikten çok, sadık bir yardımcı veya danışman olmayı tercih eder. Para hırsı yoktur ancak güvenli bir gelecek ister. Çalışkandır."
+      },
+      {
+        "title": "Hayat Dersi ve Ruhsal Tema",
+        "content": "Ruhsal amacı, korkularından arınmak ve güvenmeyi öğrenmektir. Pozitif düşünmeyi geliştirmelidir. Dünyayı kurtaramayacağını kabul edip, kendi iç huzurunu bulmalıdır. Sadakatini doğru insanlara sunmayı öğrenmelidir."
+      }
+    ]
+  },
+  "Pig": {
+    "name": "Domuz",
+    "element": "Su",
+    "summary": "Cömert, Neşeli, Dürüst",
+    "deepAnalysis": [
+      {
+        "title": "Karakter Özü ve Motivasyon",
+        "content": "Domuz, zodyağın son burcudur; tamamlanmayı, bolluğu ve neşeyi simgeler. İyi kalpli, cömert ve dürüsttür. Hayatın tadını çıkarmayı sever. Arkadaş canlısıdır, kin tutmaz. Saf ve masum bir doğası vardır. Yardımseverdir, herkesin iyiliğini ister. Çalışkandır ancak dinlenmeyi de bilir. Lüksü ve konforu sever."
+      },
+      {
+        "title": "Gölge Taraf ve Tuzaklar",
+        "content": "Saf olduğu için kolayca kandırılabilir. Hayır demekte zorlanır. Tembelliğe ve aşırı yemeye düşkün olabilir. Sorumluluktan kaçabilir. Bazen duygusal olarak dengesiz olabilir. Maddiyatçı davranabilir. Eleştiriye gelemez. Kendi zevklerine aşırı düşkünlük, sağlığını bozabilir."
+      },
+      {
+        "title": "İlişkilerde Dinamikler",
+        "content": "Aşkta romantik, sadık ve vericidir. Partnerini şımartmayı sever. Tavşan, Keçi ve Kaplan ile uyumludur. Yılan burcuyla anlaşamaz. İlişkide huzur ve keyif arar. Tartışmadan kaçınır. Duygusal olarak incinmeye açıktır. Ailesine çok düşkündür."
+      },
+      {
+        "title": "İş, Para ve Kariyer",
+        "content": "Sanat, eğlence, gastronomi, yardım kuruluşları veya ticaret alanında başarılıdır. Şanslı bir burçtur, para ona kolay gelir. Ancak harcamayı da sever. Ekip çalışmasına uygundur. İş ortamında sevilen biridir. Baskı altında çalışmayı sevmez."
+      },
+      {
+        "title": "Hayat Dersi ve Ruhsal Tema",
+        "content": "Hayat dersi, sınır koymayı ve hayır demeyi öğrenmektir. Kendi değerini bilmeli ve başkalarının onu kullanmasına izin vermemelidir. Maddi ve manevi dengeyi kurmalıdır. Bilgeliğini saflığıyla birleştirip dünyaya sevgi yaymaktır."
+      }
+    ]
+  }
+}
